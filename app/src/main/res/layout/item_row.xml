@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:geekui="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    android:gravity="left|center"
+    android:id="@+id/llfornavi">
+
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/rowIcon"
+        android:paddingLeft="16dp"
+        android:src="@drawable/ic_launcher"/>
+
+    <views.TypefaceTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingTop="4dp"
+        android:textSize="18dp"
+        geekui:customTypeface="fonts/JosefinSans-Bold.ttf"
+        android:id="@+id/rowText"
+        android:layout_marginLeft="5dp"
+        android:textColor="#000" />
+
+</LinearLayout>

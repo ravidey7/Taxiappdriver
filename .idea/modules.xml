@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Taxiappdriver.iml" filepath="$PROJECT_DIR$/Taxiappdriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularimageview/circularimageview.iml" filepath="$PROJECT_DIR$/circularimageview/circularimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library22/library22.iml" filepath="$PROJECT_DIR$/library22/library22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarycircleprogress/librarycircleprogress.iml" filepath="$PROJECT_DIR$/librarycircleprogress/librarycircleprogress.iml" />
+    </modules>
+  </component>
+</project>
